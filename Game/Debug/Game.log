@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Game.cpp
+  GameDlg.cpp
+C:\Users\darry\OneDrive\Desktop\1120516_Game\Game\GameDlg.cpp(175,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\darry\OneDrive\Desktop\1120516_Game\Game\GameDlg.cpp(176,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\darry\OneDrive\Desktop\1120516_Game\Game\GameDlg.cpp(177,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\darry\OneDrive\Desktop\1120516_Game\Game\GameDlg.cpp(269,6): warning C4101: 'k': unreferenced local variable
+  Generating Code...
+  Game.vcxproj -> C:\Users\darry\OneDrive\Desktop\1120516_Game\Debug\Game.exe
